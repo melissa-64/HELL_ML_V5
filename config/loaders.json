@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "BO6 - WZ4 AIO",
-            "name": "BO6 - WZ4 AIO",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324750603359883264/Loader.exe?ex=677949a4&is=6777f824&hm=26b15e9b17ac3cd5b56d95ed56c6628704c62254db3f8224c3b1de76c5f8d3fb&",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/GIF_Boxes/BO6AIOGIF.gif"
-        },
-        {
             "id": "BO6 - WZ4 Unlock All Tool",
             "name": "BO6 - WZ4 Unlock All Tool",
             "categoryId": "bo6",
