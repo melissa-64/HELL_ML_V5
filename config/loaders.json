@@ -1,4 +1,13 @@
 {
     "defaultListView": false,
-    "loaders": []
+    "loaders": [
+        {
+            "id": "BO6 - WZ4 Chair",
+            "name": "BO6 - WZ4 Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324750667134402571/Loader.exe?ex=677949b3&is=6777f833&hm=74cc5747484d204ea8e2c36c8477825e497339688e14798ff0561b6a6a1a3493&",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/GIF_Boxes/BO6_CHAIR.gif"
+        }
+    ]
 }
