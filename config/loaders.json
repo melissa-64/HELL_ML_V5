@@ -128,6 +128,14 @@
             "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324751280077541396/Loader.exe?ex=67794a45&is=6777f8c5&hm=24fc257a8245f122eb0394dfbcab35822f105b96081061e8ba8218726ba7778e&",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/MW3MINIAIOGIFNEW12-ezgif.com-resize.gif"
+        },
+        {
+            "id": "MW3 Silent Chair",
+            "name": "MW3 Silent Chair",
+            "categoryId": "mw3",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324751305616396288/Silent_Chair.exe?ex=67794a4b&is=6777f8cb&hm=00fba41b86673e19db47b5e9615bb341553848d58877a1cce7eb88a38eb0ed6b&",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/MW3sileeent-ezgif.com-resize.gif"
         }
     ]
 }
