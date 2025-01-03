@@ -72,6 +72,14 @@
             "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324750859132866620/genericloader.exe?ex=677949e1&is=6777f861&hm=0e0f0d6b487ff2ee437cba1a407d2db8a13e00a57a05b613a1ad8abd6519ccb3&",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/BO6VIPLuther1-ezgif.com-resize_1.gif"
+        },
+        {
+            "id": "CS2 External Chair",
+            "name": "CS2 External Chair",
+            "categoryId": "cs2",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324752861229223947/Loader.exe?ex=67794bbe&is=6777fa3e&hm=4f47a19502b275a7058c3fefb8fa00b3c04f4d44c9bfb7bb6fbfff0010cfb402&",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/cs2chair-ezgif.com-resize.gif"
         }
     ]
 }
