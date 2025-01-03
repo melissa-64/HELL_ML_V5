@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "BO6 - WZ4 Silent Chair",
-            "name": "BO6 - WZ4 Silent Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324750954783969300/BO6_Silent-Chair.exe?ex=677949f8&is=6777f878&hm=16a1cccafca571396abd3e23b7bfa469326159748803e59cd4988c95c97bc1f5&",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/bo6silent1-ezgif.com-resize.gif"
-        },
-        {
             "id": "BO6 - WZ4 Loud Chair",
             "name": "BO6 - WZ4 Loud Chair",
             "categoryId": "bo6",
