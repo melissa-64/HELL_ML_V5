@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "BO6 - WZ4 Loud Chair",
-            "name": "BO6 - WZ4 Loud Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324751033947394161/BO6_Loud-Chair.exe?ex=67794a0b&is=6777f88b&hm=3ad3a6fa05593bc63f783118b8b14bf66289a9940aa35d8559f101a52c24d73d&",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/bo6loudchairgif1-ezgif.com-resize.gif"
-        },
-        {
             "id": "FIVE-M External Chair",
             "name": "FIVE-M External Chair",
             "categoryId": "fivem",
