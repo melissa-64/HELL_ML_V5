@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "MW3 UAV-Radar",
-            "name": "MW3 UAV-Radar",
-            "categoryId": "mw3",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324751414643130518/Loader.exe?ex=67794a65&is=6777f8e5&hm=bba0c953b056be2186383d9c7241b1b37434ddf24bf539124c3417538059a510&",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/mw3uavradar-ezgif.com-resize.png"
-        },
-        {
             "id": "MW3 Chair",
             "name": "MW3 Chair",
             "categoryId": "mw3",
