@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "MW3 Chair",
-            "name": "MW3 Chair",
-            "categoryId": "mw3",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324751243582640228/Loader.exe?ex=67794a3d&is=6777f8bd&hm=2cbde5c1efff02b483cfec0a3c2edb870288f461dd3029fb81313156e9f2c45d&",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/MW3CHAIRV1GIFNEW11-ezgif.com-resize.gif"
-        },
-        {
             "id": "MW3 Mini AIO",
             "name": "MW3 Mini AIO",
             "categoryId": "mw3",
