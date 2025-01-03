@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "MW3 Unlock All Tool",
-            "name": "MW3 Unlock All Tool",
-            "categoryId": "mw3",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1201845215921700935/1324751458700366037/Loader.exe?ex=67794a70&is=6777f8f0&hm=b46596ebfaa77adc97c308acc0201583875e9c53360264b9054cff389e19713e&",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/596394758910377997_cloud/main/MW3_Unlock_All.png"
-        },
-        {
             "id": "MW3 Simple Unlocker",
             "name": "MW3 Simple Unlocker",
             "categoryId": "mw3",
